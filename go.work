@@ -1,0 +1,6 @@
+go 1.21
+
+use (
+	.
+	third_party/tencent.com/mmkv
+)
